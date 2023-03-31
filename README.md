@@ -7,4 +7,5 @@
 <img height="200em" src="./Assets/img/img.jpg">
 <img height="200em" src="./Assets/img/img2.jpg">
 <img height="200em" src="./Assets/img/img3.jpg">
+  <p>Retificador que recebe energia de corrente alternada e transforma em energia de corrente continua</p>
 </div>
