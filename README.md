@@ -8,7 +8,6 @@
 <img height="200em" src="./Assets/img/img.jpg">
 <img height="200em" src="./Assets/img/img2.jpg">
 <img height="200em" src="./Assets/img/img3.jpg">
-<<<<<<< HEAD
 </div>
 
   
