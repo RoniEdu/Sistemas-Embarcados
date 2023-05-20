@@ -16,7 +16,7 @@
   <img height="200em" src="./Assets/img/imagem01.jpeg">
   <p>O circuito Retificador com LM7809 e com o divisor de tensão</p>
   <img height="200em" src="./Assets/img/imagem02.jpeg">
-  <img height="200em" src="./Assets/img/imagem03.jpeg">
+  <p><img height="200em" src="./Assets/img/imagem03.jpeg"></p>
   </div>
 </div>
 
