@@ -4,7 +4,7 @@
 
 <div align=center>
 <a href="https://github.com/RoniEdu">
-<img height="200em" src="./assets/img/img.jpg">
-<img height="200em" src="./assets/img/img2.jpg">
-<img height="200em" src="./assets/img/img3.jpg">
+<img height="200em" src="./Assets/img/img.jpg">
+<img height="200em" src="./Assets/img/img2.jpg">
+<img height="200em" src="./Assets/img/img3.jpg">
 </div>
