@@ -5,8 +5,6 @@
 <img height="200em" src="./Assets/img/Retificador.jpg">
 </div>
   <br>
-
-
 <div align=center>
 <a href="https://github.com/RoniEdu">
 <img height="200em" src="./Assets/img/img.jpg">
