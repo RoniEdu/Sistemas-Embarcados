@@ -1,6 +1,7 @@
 # Sistemas-Embarcados
 <p>Retificador que recebe energia de corrente alternada e transforma em energia de corrente continua</p>
-[Retificador](https://user-images.githubusercontent.com/110207335/227074240-e1872f8e-5253-40e1-93b6-31bf654f8124.jpg)
+<p>Retificador</p>
+<img height="200em" src="./Assets/img/Retificador.jpg">
 
 <div align=center>
 <a href="https://github.com/RoniEdu">
