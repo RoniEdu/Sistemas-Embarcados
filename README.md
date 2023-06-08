@@ -9,7 +9,7 @@
 <a href="https://github.com/RoniEdu">
 <img height="200" width="300" src="./Assets/img/img.jpg">
   <br>
-<img height="500" width="300" src="./Assets/img/img2.jpg">
+<img height="500" width="500" src="./Assets/img/img2.jpg">
   <br>
 <img height="500" width="300" src="./Assets/img/img3.jpg">
 </div>
