@@ -2,16 +2,16 @@
 <p>Retificador que recebe energia de corrente alternada e transforma em energia de corrente continua</p>
 <p>Retificador</p>
 <div align=center>
-<img height="200" src="./Assets/img/Retificador.jpg">
+<img height="200" width="400" src="./Assets/img/Retificador.jpg">
 </div>
   <br>
 <div align=center>
 <a href="https://github.com/RoniEdu">
-<img height="200" width="300" src="./Assets/img/img.jpg">
+<img height="200" width="400" src="./Assets/img/img.jpg">
   <br>
-<img height="500" width="500" src="./Assets/img/img2.jpg">
+<img height="500" width="400" src="./Assets/img/img2.jpg">
   <br>
-<img height="500" width="300" src="./Assets/img/img3.jpg">
+<img height="500" width="400" src="./Assets/img/img3.jpg">
 </div>
 <br>
   
@@ -20,7 +20,7 @@
   <br>
   <br>
   <p>Circuito Retificador com LM7805</p>
-  <img height="200" width="300" src="./Assets/img/imagem01.jpeg">
+  <img height="200" width="400" src="./Assets/img/imagem01.jpeg">
     <br>
   <p>Circuito Retificador com LM7809 e com o divisor de tensão</p>
   <img height="600" width="400" src="./Assets/img/imagem02.jpeg">
