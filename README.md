@@ -30,7 +30,7 @@
   </div>
   
   
- <div align=center>
+ <div>
    <p>O código desenvolvido que está apresentado logo a baixo faz com que um dos leds ligue a cada 5 segundos, por outro lado o outro led liga quando o display atinge a temperatura de 26 Celsius.</p>
    
    <p>#include <Arduino.h>
