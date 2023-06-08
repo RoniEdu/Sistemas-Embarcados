@@ -2,7 +2,7 @@
 <p>Retificador que recebe energia de corrente alternada e transforma em energia de corrente continua</p>
 <p>Retificador</p>
 <div align=center>
-<img height="200em" src="./Assets/img/Retificador.jpg">
+<img height="200" src="./Assets/img/Retificador.jpg">
 </div>
   <br>
 <div align=center>
