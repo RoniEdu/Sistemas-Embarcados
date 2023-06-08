@@ -20,7 +20,7 @@
   <br>
   <br>
   <p>Circuito Retificador com LM7805</p>
-  <img height="1280" width="720" src="./Assets/img/imagem01.jpeg">
+  <img height="600" width="400" src="./Assets/img/imagem01.jpeg">
     <br>
   <p>Circuito Retificador com LM7809 e com o divisor de tensão</p>
   <img height="600" width="400" src="./Assets/img/imagem02.jpeg">
