@@ -13,7 +13,7 @@
   <br>
 <img height="300" width="800" src="./Assets/img/img3.jpg">
 </div>
-<br>
+  <br>
   
 <div align=center>
   <br>
@@ -25,7 +25,7 @@
   <p>Circuito Retificador com LM7809 e com o divisor de tensão</p>
   <img height="600" width="400" src="./Assets/img/imagem02.jpeg">
     <br>
-  <p><img height="320" width="400" src="./Assets/img/imagem03.jpeg"></p>
+  <p><img height="320" width="500" src="./Assets/img/imagem03.jpeg"></p>
     <br>
   </div>
 </div>
