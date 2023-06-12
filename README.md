@@ -11,8 +11,8 @@
 <img height="250" width="800" src="./Assets/img/img2.jpg">
   <br>
 <img height="300" width="800" src="./Assets/img/img3.jpg">
-</div>
   <br>
+</div>
   
 <div align=center>
   <br>
